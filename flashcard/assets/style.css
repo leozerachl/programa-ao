@@ -34,7 +34,7 @@ footer p {
     height: 100%;
 }
 .cartao__conteudo h3 {
-    background-color: darkslategray;
+    background-color: rgb(82, 109, 109);
     text-align:left;
     padding: 0.5rem;
     position: absolute;
