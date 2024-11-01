@@ -11,7 +11,7 @@ footer{
     bottom: 0;
     width: 100%;
 }
-footer p {
+;;;footer p {
     text-align: center; 
     font-size: 0.9rem;
     margin-top: 0.5rem;
@@ -19,7 +19,7 @@ footer p {
 #container{
     display:flex;
 }
-.cartao {
+.cartao{
     margin: 1rem 1rem;
     background-color: blue;
     height: 20rem;
