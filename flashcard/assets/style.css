@@ -28,3 +28,8 @@ footer p {
 
 }
 
+.cartao__conteudo{
+    text-align: center;
+    background-color: cadetblue;
+    height: 100%;
+}
